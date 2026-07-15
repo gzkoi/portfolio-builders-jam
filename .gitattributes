@@ -1,0 +1,33 @@
+## Unity LFS rules
+*.cs diff=csharp text
+*.cginc text
+*.shader text
+*.mat binary
+*.anim binary
+*.asset binary
+*.prefab binary
+*.unity binary
+*.spriteatlas binary
+
+## Visual Assets
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.tga binary
+*.psd binary
+*.fbx binary
+*.obj binary
+*.max binary
+*.blend binary
+
+## Audio & Video Assets
+*.mp3 binary
+*.wav binary
+*.ogg binary
+*.mp4 binary
+*.mov binary
+
+## WebGL & Native Plugins
+*.dll binary
+*.so binary
+*.dylib binary
